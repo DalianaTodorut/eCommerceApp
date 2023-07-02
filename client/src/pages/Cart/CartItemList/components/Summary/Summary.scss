@@ -1,0 +1,22 @@
+.summary-total-bar {
+    display: flex;
+    min-width: 100%;
+    padding-bottom: 1rem;
+}
+
+.summary-amount {
+   width: 100%;
+   text-align: end;
+   padding-right: 2rem;
+}
+
+.submit-button{
+    background-color: #001529;
+    width: 100%;
+    color: #1677ff;
+}
+
+.total-text-width{
+    width: 100%;
+    padding-left: 2rem;
+}
